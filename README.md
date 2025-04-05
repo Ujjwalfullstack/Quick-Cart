@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+An e-commerce website made with the React.js Framework.
 
 
 ## Demo
@@ -15,7 +15,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![Image](https://github.com/user-attachments/assets/e7dad84a-02ec-4604-90bd-354baeda666c)
 
 
 
@@ -54,14 +54,6 @@ Start the server
 * [Bootstrap](https://getbootstrap.com/)
 * [Fake Store API](https://fakestoreapi.com/)
 
-## Contributing
 
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ujjwal.github.io/#contact)
 
 
