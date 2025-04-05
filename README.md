@@ -5,11 +5,11 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+[Live link](https://react-quick-cart.netlify.app/)
 
 ## Features
 
-- Easy to integrate with Backend
+- Easy to integrate with the Backend
 - Fully Responsive
 
 
